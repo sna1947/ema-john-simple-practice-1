@@ -1,0 +1,24 @@
+.product-cointeainer{
+display: flex;
+padding: 10px;
+border-bottom:1px solid rgb(223, 219, 219) ;
+margin-right: 5px;
+}
+.product-img{
+    margin-right: 25px;
+}
+.product-name{
+    color: blue;
+    font-weight: 400;
+}
+.btn-regular{
+    width: 250px;
+    background-color: #d19e06;
+    border: cornsilk;
+    font-size: large;
+    font-weight: 700;
+    padding: 5px;
+    color: rgb(15, 61, 15);
+    border-radius: 5px;
+    cursor: pointer;
+}

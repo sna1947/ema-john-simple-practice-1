@@ -1,11 +1,14 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header/Header';
+import Shop from './components/Shop/Shop';
 
 function App() {
   return (
     <div >
-      <h1>hi i am sana halder</h1>
-
+      
+      <Header></Header>
+      <Shop></Shop>
     </div>
   );
 }
